@@ -1,0 +1,749 @@
+[
+  {
+    "activity": "Paint the first thing you see",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.25,
+    "link": "",
+    "key": "1162360",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Learn how to fold a paper crane",
+    "type": "education",
+    "participants": 1,
+    "price": 0.1,
+    "link": "",
+    "key": "3136036",
+    "accessibility": 0.05
+  },
+  {
+    "activity": "Write a poem",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "8688620",
+    "accessibility": 0
+  },
+  {
+    "activity": "Meditate for five minutes",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "3699502",
+    "accessibility": 0.05
+  },
+  {
+    "activity": "Shred old documents you don't need anymore",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "2430066",
+    "accessibility": 0
+  },
+  {
+    "activity": "Learn origami",
+    "type": "education",
+    "participants": 1,
+    "price": 0.2,
+    "link": "",
+    "key": "8394738",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Text a friend you haven't talked to in a long time",
+    "type": "social",
+    "participants": 2,
+    "price": 0.05,
+    "link": "",
+    "key": "6081071",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Repaint a room in your house",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.3,
+    "link": "",
+    "key": "4877086",
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Write a thank you letter to an influential person in your life",
+    "type": "social",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "4101229",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Learn the periodic table",
+    "type": "education",
+    "participants": 1,
+    "price": 0,
+    "link": "https://en.wikipedia.org/wiki/Periodic_table",
+    "key": "3621244",
+    "accessibility": 0.6
+  },
+  {
+    "activity": "Organize a bookshelf",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "6098037",
+    "accessibility": 0
+  },
+  {
+    "activity": "Do something nice for someone you care about",
+    "type": "social",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "8321894",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Organize your basement",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "8203595",
+    "accessibility": 0.9
+  },
+  {
+    "activity": "Bake something you've never tried before",
+    "type": "cooking",
+    "participants": 1,
+    "price": 0.4,
+    "link": "",
+    "key": "5665663",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Pot some plants and put them around your house",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.4,
+    "link": "",
+    "key": "6613330",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Learn to play a new instrument",
+    "type": "music",
+    "participants": 1,
+    "price": 0.55,
+    "link": "",
+    "key": "3192099",
+    "accessibility": 0.6
+  },
+  {
+    "activity": "Listen to music you haven't heard in a while",
+    "type": "music",
+    "participants": 1,
+    "price": 0.05,
+    "link": "",
+    "key": "4296813",
+    "accessibility": 0.9
+  },
+  {
+    "activity": "Visit your past teachers",
+    "type": "social",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "8238918",
+    "accessibility": 0.7
+  },
+  {
+    "activity": "Make homemade ice cream",
+    "type": "cooking",
+    "participants": 1,
+    "price": 0.2,
+    "link": "",
+    "key": "3818400",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Play basketball with a group of friends",
+    "type": "social",
+    "participants": 5,
+    "price": 0,
+    "link": "",
+    "key": "8683473",
+    "accessibility": 0.7
+  },
+  {
+    "activity": "Wash your car",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0.05,
+    "link": "",
+    "key": "1017771",
+    "accessibility": 0.15
+  },
+  {
+    "activity": "Create a personal website",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "link": "",
+    "key": "3141417",
+    "accessibility": 0.12
+  },
+  {
+    "activity": "Draw something interesting",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "8033599",
+    "accessibility": 0
+  },
+  {
+    "activity": "Start a garden",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.3,
+    "link": "",
+    "key": "1934228",
+    "accessibility": 0.35
+  },
+  {
+    "activity": "Pick up litter around your favorite park",
+    "type": "charity",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "4894697",
+    "accessibility": 0.05
+  },
+  {
+    "activity": "Go on a long drive with no music",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.1,
+    "link": "",
+    "key": "4290333",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Start a collection",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "1718657",
+    "accessibility": 0.5
+  },
+  {
+    "activity": "Have a picnic with some friends",
+    "type": "social",
+    "participants": 3,
+    "price": 0.1,
+    "link": "",
+    "key": "6813070",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Go stargazing",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "8832605",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Think of a new business idea",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "6808057",
+    "accessibility": 0.05
+  },
+  {
+    "activity": "Take a class at your local community center that interests you",
+    "type": "education",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "8750692",
+    "accessibility": 0.15
+  },
+  {
+    "activity": "Read a formal research paper on an interesting subject",
+    "type": "education",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "3352474",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Start a daily journal",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "8779876",
+    "accessibility": 0
+  },
+  {
+    "activity": "Donate blood at a local blood center",
+    "type": "charity",
+    "participants": 1,
+    "price": 0,
+    "link": "https://www.redcross.org/give-blood",
+    "key": "6509779",
+    "accessibility": 0.35
+  },
+  {
+    "activity": "Plan a vacation you've always wanted to take",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "7265395",
+    "accessibility": 0.05
+  },
+  {
+    "activity": "Go to the library and find an interesting book",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.05,
+    "link": "",
+    "key": "8253550",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Go swimming with a friend",
+    "type": "social",
+    "participants": 2,
+    "price": 0.1,
+    "link": "",
+    "key": "1505028",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Go see a movie in theaters with a few friends",
+    "type": "social",
+    "participants": 4,
+    "price": 0.2,
+    "link": "",
+    "key": "5262759",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Practice coding in your favorite lanaguage",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "7096020",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Go to a karaoke bar with some friends",
+    "type": "social",
+    "participants": 4,
+    "price": 0.5,
+    "link": "",
+    "key": "9072906",
+    "accessibility": 0.35
+  },
+  {
+    "activity": "Create a meal plan for the coming week",
+    "type": "cooking",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "3491470",
+    "accessibility": 0
+  },
+  {
+    "activity": "Do something you used to do as a kid",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.1,
+    "link": "",
+    "key": "8827573",
+    "accessibility": 0.8
+  },
+  {
+    "activity": "Learn about a distributed version control system such as Git",
+    "type": "education",
+    "participants": 1,
+    "price": 0,
+    "link": "https://en.wikipedia.org/wiki/Distributed_version_control",
+    "key": "9303608",
+    "accessibility": 0
+  },
+  {
+    "activity": "Learn how to use an Arduino",
+    "type": "education",
+    "participants": 1,
+    "price": 0.1,
+    "link": "https://en.wikipedia.org/wiki/Arduino",
+    "key": "8264223",
+    "accessibility": 0.7
+  },
+  {
+    "activity": "Plant a tree",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.3,
+    "link": "",
+    "key": "1942393",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Learn how to beatbox",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "https://en.wikipedia.org/wiki/Beatboxing",
+    "key": "8731710",
+    "accessibility": 1
+  },
+  {
+    "activity": "Learn how to iceskate or rollerskate",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "link": "",
+    "key": "5947957",
+    "accessibility": 0.25
+  },
+  {
+    "activity": "Make a to-do list for your week",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "5920481",
+    "accessibility": 0.05
+  },
+  {
+    "activity": "Create a cookbook with your favorite recipes",
+    "type": "cooking",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "1947449",
+    "accessibility": 0.05
+  },
+  {
+    "activity": "Match your storage containers with their lids",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "4940907",
+    "accessibility": 1
+  },
+  {
+    "activity": "Shop at support your local farmers market",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.2,
+    "link": "",
+    "key": "8979931",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Go to a music festival with some friends",
+    "type": "social",
+    "participants": 4,
+    "price": 0.4,
+    "link": "",
+    "key": "6482790",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Make tie dye shirts",
+    "type": "diy",
+    "participants": 1,
+    "price": 0.2,
+    "link": "",
+    "key": "8092359",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Fill out a basketball bracket",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "7806284",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Compliment someone",
+    "type": "social",
+    "participants": 2,
+    "price": 0,
+    "link": "",
+    "key": "9149470",
+    "accessibility": 0
+  },
+  {
+    "activity": "Draft your living will",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0,
+    "link": "https://www.investopedia.com/terms/l/livingwill.asp",
+    "key": "2360432",
+    "accessibility": 0.5
+  },
+  {
+    "activity": "Go to an escape room",
+    "type": "social",
+    "participants": 4,
+    "price": 0.5,
+    "link": "",
+    "key": "5585829",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Watch the sunset or the sunrise",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "4748214",
+    "accessibility": 1
+  },
+  {
+    "activity": "Listen to a new podcast",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.05,
+    "link": "",
+    "key": "4124860",
+    "accessibility": 0.12
+  },
+  {
+    "activity": "Patronize a local independent restaurant",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.2,
+    "link": "",
+    "key": "5319204",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Learn how to play a new sport",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "link": "",
+    "key": "5808228",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Make bread from scratch",
+    "type": "cooking",
+    "participants": 1,
+    "price": 0.2,
+    "link": "",
+    "key": "4809815",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Have a jam session with your friends",
+    "type": "music",
+    "participants": 5,
+    "price": 0.1,
+    "link": "",
+    "key": "2715253",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Volunteer at your local food pantry",
+    "type": "charity",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "1878070",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Volunteer at your local food bank",
+    "type": "charity",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "2055368",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Take a hike at a local park",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "8724324",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Write a song",
+    "type": "music",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "5188388",
+    "accessibility": 0
+  },
+  {
+    "activity": "Listen to your favorite album",
+    "type": "music",
+    "participants": 1,
+    "price": 0.08,
+    "link": "",
+    "key": "3136729",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Conquer one of your fears",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "link": "",
+    "key": "8344539",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Play a game of Monopoly",
+    "type": "social",
+    "participants": 4,
+    "price": 0.2,
+    "link": "",
+    "key": "1408058",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Learn Javascript",
+    "type": "education",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "3469378",
+    "accessibility": 0.9
+  },
+  {
+    "activity": "Play a video game",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "5534113",
+    "accessibility": 0
+  },
+  {
+    "activity": "Back up important computer files",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0.2,
+    "link": "",
+    "key": "9081214",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Learn to sew on a button",
+    "type": "education",
+    "participants": 1,
+    "price": 0.05,
+    "link": "",
+    "key": "8731971",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Learn about the Golden Ratio",
+    "type": "education",
+    "participants": 1,
+    "price": 0.1,
+    "link": "https://en.wikipedia.org/wiki/Golden_ratio",
+    "key": "2095681",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Go to a concert with local artists with some friends",
+    "type": "social",
+    "participants": 3,
+    "price": 0.4,
+    "link": "",
+    "key": "2211716",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Go see a Broadway production",
+    "type": "recreational",
+    "participants": 4,
+    "price": 0.8,
+    "link": "",
+    "key": "4448913",
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Look at your finances and find one way to save money",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "5977626",
+    "accessibility": 1
+  },
+  {
+    "activity": "Take a caffeine nap",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.1,
+    "link": "",
+    "key": "5092652",
+    "accessibility": 0.08
+  },
+  {
+    "activity": "Color",
+    "type": "relaxation",
+    "participants": 1,
+    "price": 0.1,
+    "link": "",
+    "key": "5322987",
+    "accessibility": 0
+  },
+  {
+    "activity": "Study a foreign language",
+    "type": "education",
+    "participants": 1,
+    "price": 0,
+    "link": "",
+    "key": "9765530",
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Binge watch a trending series",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.2,
+    "link": "",
+    "key": "5881647",
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Learn the Chinese erhu",
+    "type": "music",
+    "participants": 1,
+    "price": 0.6,
+    "link": "",
+    "key": "2742452",
+    "accessibility": 0.4
+  }
+]

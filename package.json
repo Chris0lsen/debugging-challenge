@@ -1,0 +1,35 @@
+{
+  "name": "debugging-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "run-p start:frontend start:backend",
+    "start:frontend": "webpack-dev-server --open",
+    "start:backend": "nodemon --watch server",
+    "test": "jest",
+    "watch": "webpack -w",
+    "webpack": "webpack -p"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "7.10.5",
+    "@babel/preset-env": "7.10.4",
+    "@babel/preset-react": "7.10.4",
+    "babel-loader": "8.1.0",
+    "jest": "26.1.0",
+    "nodemon": "2.0.4",
+    "npm-run-all": "4.1.5",
+    "webpack-cli": "3.3.12",
+    "webpack-dev-server": "3.11.0"
+  },
+  "dependencies": {
+    "axios": "0.19.2",
+    "express": "4.17.1",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "webpack": "4.44.0"
+  }
+}
