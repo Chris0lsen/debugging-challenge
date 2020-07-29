@@ -27,11 +27,11 @@ const DataTable = ({ headers, keys, rows, className, title }) => {
     let newSortAsc = sortAsc
     if (key === sortKey) {
       newSortAsc = !sortAsc
-      setSortAsc(newSortAsc)
     } else {
       setSortKey(key)
-      setSortAsc(true)
+      newSortAsc = true
     }
+    setSortAsc(newSortAsc)
     let temp = [...rows].sort((a, b) =>
       newSortAsc ? (a[key] > b[key] ? 1 : -1) : a[key] < b[key] ? 1 : -1
     )
