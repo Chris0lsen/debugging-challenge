@@ -35,6 +35,14 @@ main {
   background-color: lightblue;
 }
 
+.activityTable th:hover {
+  cursor: pointer;
+}
+
+.activityTable tr:hover {
+  background-color: #eee;
+}
+
 .actions {
   padding: 8px 0;
 }

@@ -2,12 +2,12 @@
   "name": "debugging-interview",
   "version": "1.0.0",
   "description": "",
-  "main": "server/server.js",
+  "main": "server/index.js",
   "scripts": {
     "start": "run-p start:frontend start:backend",
     "start:frontend": "webpack-dev-server --open",
     "start:backend": "nodemon --watch server",
-    "test": "jest",
+    "test": "jest --verbose",
     "watch": "webpack -w",
     "webpack": "webpack -p"
   },
@@ -17,6 +17,8 @@
     "@babel/core": "7.10.5",
     "@babel/preset-env": "7.10.4",
     "@babel/preset-react": "7.10.4",
+    "@testing-library/react": "10.4.7",
+    "babel-jest": "26.1.0",
     "babel-loader": "8.1.0",
     "jest": "26.1.0",
     "nodemon": "2.0.4",
