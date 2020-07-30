@@ -37,3 +37,5 @@ You can also start `jest` in watch mode with the following:
 ```
 npm run test:watch
 ```
+
+[![Run on Repl.it](https://repl.it/badge/github/Chris0lsen/debugging-challenge)](https://repl.it/github/Chris0lsen/debugging-challenge)
